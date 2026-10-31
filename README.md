@@ -110,7 +110,7 @@ ai-frontier-lab/
 
 | Research Topic | Category | Status |
 |---|---|---|
-| AlphaFold 3 – Biomolecular Interaction Prediction | AI for Science | Documented |
+| Research Papers | AI for Science | Documented |
 | Transformer Architecture | Generative AI | Planned |
 | Retrieval-Augmented Generation | LLMs | Planned |
 | AI Agents and Multi-Agent Systems | Agentic AI | Planned |
