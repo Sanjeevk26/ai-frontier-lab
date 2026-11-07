@@ -1,4 +1,4 @@
-# Prompt Engineering and Context Engineering — Introduction
+# Prompt Engineering and Context Engineering 
 
 ## 1. Overview
 
