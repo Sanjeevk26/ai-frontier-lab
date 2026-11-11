@@ -261,11 +261,6 @@ It does **not** establish that:
 8. **No watermark can identify unmarked output from every AI system.**
 9. **Watermark detection is evidence, not a final judgment about authorship or misconduct.**
 
-## 19. Final Summary
-
-SynthID-Text tackles a growing problem: when writing looks equally natural whether a person or a chatbot created it, **style alone is a weak basis for deciding the source**. Google's approach adds a quiet signature during text generation and checks for that signature later using statistics and a secret key.
-
-The research's major achievement is demonstrating that this can be done **at the scale of a real chatbot**, while maintaining the measured quality of replies and adding little computational cost. Its main unresolved challenge is that the watermark is **optional, provider-dependent, and vulnerable to substantial rewriting**.
 
 The bigger lesson is that **AI provenance is not the same as AI-style detection**—and neither one replaces careful human judgment.
 
